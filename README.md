@@ -1,132 +1,57 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0b3d0b,50:1f7a1f,100:3ddc84&text=Omkar%20Kudav&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=%E2%9A%BD%20Full-Stack%20%C2%B7%20AI%20%C2%B7%20Machine%20Learning&descAlignY=60&descSize=20&animation=fadeIn" width="100%" alt="header" />
+<img src="assets/stadium.svg" width="100%" alt="Omkar Kudav: Full-Stack Developer, AI / ML" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=3DDC84&center=true&vCenter=true&width=640&lines=Kick-off+%E2%80%94+Building+things+that+ship+%E2%9A%BD;Playmaker+in+AI+%26+Machine+Learning;Striker+in+Web+Development;Currently+in+the+final+third+of+my+B.Tech+%F0%9F%8F%86" alt="typing" />
-</a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=3DDC84&center=true&vCenter=true&width=640&lines=Kick-off+%E2%80%94+building+things+that+ship+%E2%9A%BD;Playmaker+in+AI+%26+Machine+Learning;Striker+in+Full-Stack+Web+Development;3rd+year+B.Tech+IT+%C2%B7+open+to+internships+%F0%9F%A4%9D" alt="typing" /></a>
 
 <br/>
 
-![Profile views](https://komarev.com/ghpvc/?username=Crtzz02&label=Fans+in+the+stands&color=1f7a1f&style=for-the-badge&logo=github)
-![Followers](https://img.shields.io/github/followers/Crtzz02?label=Supporters&style=for-the-badge&color=3ddc84&labelColor=0b3d0b)
-![Repos](https://img.shields.io/badge/Matches%20Played-9-1f7a1f?style=for-the-badge&labelColor=0b3d0b)
+<img src="https://komarev.com/ghpvc/?username=Crtzz02&label=Fans+in+the+stands&color=1f7a1f&style=for-the-badge" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/Crtzz02?label=Supporters&style=for-the-badge&color=3ddc84&labelColor=0b3d0b" alt="Followers" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FCrtzz02&query=%24.public_repos&label=Matches%20Played&style=for-the-badge&color=1f7a1f&labelColor=0b3d0b" alt="Public repos" />
 
 </div>
 
----
+<img src="assets/divider.svg" width="100%" alt="" />
 
 ## 📋 Team Sheet
 
-```text
-  ┌──────────────────────────────────────────────┐
-  │  PLAYER      : Omkar Kudav  (he/him)         │
-  │  POSITION    : Full-Stack Dev · ML Enthusiast│
-  │  CLUB        : SIES Graduate School of Tech  │
-  │  SQUAD       : B.Tech CE (ML) · 2024 – 2028  │
-  │  STYLE       : Build fast, learn faster      │
-  │  TRANSFER    : Open to internships 🤝        │
-  └──────────────────────────────────────────────┘
-```
-
----
-
-## 🏆 Featured Matches
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🅿️ ParkWise
-**Man of the Match**
-
-Smart parking solution that helps users find, reserve and manage parking spots without circling the block.
-
-![JS](https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black)
-
-<a href="https://github.com/Crtzz02/ParkWise">
-  <img src="https://img.shields.io/badge/View%20Match%20Report-%E2%9A%BD-1f7a1f?style=for-the-badge&labelColor=0b3d0b" />
-</a>
-
-</td>
-<td width="50%" valign="top">
-
-### 📄 Resume Screening & Job Matching
-**Playmaker**
-
-AI-powered system that screens resumes, scores them against job descriptions, and ranks the best-fit candidates.
-
-![ML](https://img.shields.io/badge/Machine%20Learning-3ddc84?style=flat-square&logo=scikitlearn&logoColor=black)
-![NLP](https://img.shields.io/badge/NLP-1f7a1f?style=flat-square)
-
-<a href="https://github.com/Crtzz02/REPLACE-WITH-REPO-NAME">
-  <img src="https://img.shields.io/badge/View%20Match%20Report-%E2%9A%BD-1f7a1f?style=for-the-badge&labelColor=0b3d0b" />
-</a>
-
-</td>
-</tr>
-</table>
-
----
+<img src="assets/player-card.svg" width="100%" alt="Player card for Omkar Kudav: Full-Stack Developer, B.Tech Information Technology (3rd year) at SIES Graduate School of Technology, Mumbai. Open to internships." />
 
 ## 🧠 Formation · Tech Stack
 
-```text
-                     ⚽  ATTACK (Frontend)
-          React · JavaScript · TypeScript · HTML/CSS
+<img src="assets/tactics.svg" width="100%" alt="Tech stack as a 4-3-3 formation. GK: Git. Defence (backend and data): Supabase, Node.js, FastAPI, Firebase. Midfield (AI / ML): scikit-learn, Python, spaCy. Attack (frontend): Tailwind CSS, Next.js, React. Bench: TypeScript, JavaScript, HTML/CSS, MQTT, Pandas, NLTK, Framer Motion." />
 
-                     🎯  MIDFIELD (Backend)
-                 Node.js · Express · REST APIs
+## 🏆 Featured Matches
 
-                     🧪  PLAYMAKERS (AI / ML)
-              Python · scikit-learn · NLP · Pandas
+<a href="https://github.com/Crtzz02/ParkWise"><img src="assets/match-parkwise.svg" width="100%" alt="ParkWise: smart parking platform built with Next.js, React, Tailwind CSS, Supabase, Firebase, MQTT and Google Maps." /></a>
 
-                     🧤  DEFENCE (Tools)
-                  Git · GitHub · VS Code · Linux
-```
+<a href="https://github.com/Crtzz02/Resume-Screening-and-Job-matching"><img src="assets/match-fieldmatch.svg" width="100%" alt="FieldMatch, Resume Screening and Job Matching: ranks a resume across 11 career fields with TF-IDF, MiniLM embeddings and spaCy NER, served by FastAPI." /></a>
 
-<div align="center">
+<p align="center"><sub>🪑 <b>Reserves:</b> <a href="https://github.com/Crtzz02/Safepath">Safepath</a> · <a href="https://github.com/Crtzz02/ai-portfolio-manager-">AI Portfolio Manager</a> · <a href="https://github.com/Crtzz02/personal-portfolio">Personal Portfolio</a> · <a href="https://github.com/Crtzz02/minesweeper">Minesweeper</a></sub></p>
 
-![React](https://img.shields.io/badge/React-0b3d0b?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node](https://img.shields.io/badge/Node.js-0b3d0b?style=for-the-badge&logo=nodedotjs&logoColor=3ddc84)
-![TypeScript](https://img.shields.io/badge/TypeScript-0b3d0b?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![Python](https://img.shields.io/badge/Python-0b3d0b?style=for-the-badge&logo=python&logoColor=FFD43B)
-![Git](https://img.shields.io/badge/Git-0b3d0b?style=for-the-badge&logo=git&logoColor=F05032)
+## 🏟️ The Pitch · Contribution Season
 
-</div>
+Every ball on the pitch is a day I shipped code: the bigger the ball, the bigger the day. The golden ball marks my best day of the season.
 
----
+<img src="https://raw.githubusercontent.com/Crtzz02/Crtzz02/output/pitch.svg" width="100%" alt="Contribution calendar drawn as a football pitch" />
 
-## 🏟️ The Pitch · My Contribution Season
+## 📅 Season Fixtures
 
-Every ball on the pitch is a day I shipped code. Bigger ball = bigger day.
+<img src="assets/fixtures.svg" width="100%" alt="Timeline: Jul 2024 IoT sensor project, 2024 joined SIES GST for B.Tech IT, Oct 2025 Minesweeper, Mar 2026 ParkWise, Safepath and AI Portfolio Manager, Aug 2026 FieldMatch and portfolio, Sep 2026 Ideation_iete, now in 3rd year and open to internships, graduating 2028." />
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Crtzz02/Crtzz02/output/pitch.svg" alt="Contribution pitch" width="100%" />
-</div>
-
----
-
-## 📊 Season Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Crtzz02&show_icons=true&hide_border=true&bg_color=0b1f0b&title_color=3ddc84&icon_color=3ddc84&text_color=e6ffe6&ring_color=3ddc84" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crtzz02&layout=compact&hide_border=true&bg_color=0b1f0b&title_color=3ddc84&text_color=e6ffe6" />
-
-</div>
-
----
+<img src="assets/divider.svg" width="100%" alt="" />
 
 <div align="center">
 
 ### 📬 Contact the Gaffer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0b3d0b?style=for-the-badge&logo=linkedin&logoColor=3ddc84)](https://www.linkedin.com/in/YOUR-LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0b3d0b?style=for-the-badge&logo=linkedin&logoColor=3ddc84)](https://www.linkedin.com/in/omkar-kudav-303ds/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0b3d0b?style=for-the-badge&logo=googlechrome&logoColor=3ddc84)](https://github.com/Crtzz02/personal-portfolio)
+[![GitHub](https://img.shields.io/badge/GitHub-0b3d0b?style=for-the-badge&logo=github&logoColor=3ddc84)](https://github.com/Crtzz02)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:3ddc84,50:1f7a1f,100:0b3d0b&section=footer" width="100%" alt="footer" />
+<img src="assets/fulltime.svg" width="100%" alt="Full time: thanks for visiting" />
 
-*"I learned all about life with a ball at my feet."* ⚽
+*"I learned all about life with a ball at my feet."* — Ronaldinho ⚽
 
 </div>

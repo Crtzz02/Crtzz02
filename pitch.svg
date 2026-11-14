@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 973 293" width="973" height="293">
+<style>.ball{transform-box:fill-box;transform-origin:center;animation:pop 3.2s ease-in-out infinite}@keyframes pop{0%,100%{transform:scale(1)}50%{transform:scale(1.18)}}text{font-family:'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif}.mono{font-family:Consolas,'DejaVu Sans Mono',Menlo,monospace}</style>
+<defs><pattern id="net" width="4" height="4" patternUnits="userSpaceOnUse"><path d="M0,0 L4,4 M4,0 L0,4" stroke="#fff" stroke-opacity=".45" stroke-width=".7"/></pattern></defs>
+<rect x="1" y="1" width="971" height="291" rx="14" fill="#07150b" stroke="#1f3a24"/>
+<text x="36" y="33" fill="#3ddc84" font-size="13" font-weight="800" letter-spacing="4">THE PITCH</text>
+<text x="36" y="50" fill="#8fbf9a" font-size="11" letter-spacing="1.5">CONTRIBUTION SEASON  ·  LAST 12 MONTHS</text>
+<circle cx="715" cy="31" r="5" fill="#ff4d4d"><animate attributeName="opacity" values="1;.2;1" dur="1.4s" repeatCount="indefinite"/></circle><clipPath id="bug"><rect x="729" y="16" width="208" height="30" rx="6"/></clipPath><g clip-path="url(#bug)"><rect x="729" y="16" width="62" height="30" fill="#1f7a1f"/><rect x="791" y="16" width="84" height="30" fill="#030b06"/><rect x="875" y="16" width="62" height="30" fill="#4a1414"/></g><text x="760" y="36" text-anchor="middle" fill="#fff" font-size="14" font-weight="900" letter-spacing="1">OMK</text><text x="833" y="37" text-anchor="middle" fill="#f5c518" font-size="16" font-weight="800" class="mono">49 – 0</text><text x="906" y="36" text-anchor="middle" fill="#ffd6d6" font-size="14" font-weight="900" letter-spacing="1">BUGS</text>
+<text x="36" y="71" fill="#8fbf9a" font-size="10" font-weight="700" letter-spacing="1">NOV</text>
+<text x="104" y="71" fill="#8fbf9a" font-size="10" font-weight="700" letter-spacing="1">DEC</text>
+<text x="172" y="71" fill="#8fbf9a" font-size="10" font-weight="700" letter-spacing="1">JAN</text>
+<text x="240" y="71" fill="#8fbf9a" font-size="10" font-weight="700" letter-spacing="1">FEB</text>
+<text x="308" y="71" fill="#8fbf9a" font-size="10" font-weight="700" letter-spacing="1">MAR</text>
+<text x="393" y="71" fill="#8fbf9a" font-size="10" font-weight="700" letter-spacing="1">APR</text>
+<text x="461" y="71" fill="#8fbf9a" font-size="10" font-weight="700" letter-spacing="1">MAY</text>
+<text x="546" y="71" fill="#8fbf9a" font-size="10" font-weight="700" letter-spacing="1">JUN</text>
+<text x="614" y="71" fill="#8fbf9a" font-size="10" font-weight="700" letter-spacing="1">JUL</text>
+<text x="682" y="71" fill="#8fbf9a" font-size="10" font-weight="700" letter-spacing="1">AUG</text>
+<text x="767" y="71" fill="#8fbf9a" font-size="10" font-weight="700" letter-spacing="1">SEP</text>
+<text x="835" y="71" fill="#8fbf9a" font-size="10" font-weight="700" letter-spacing="1">OCT</text>
+<text x="903" y="71" fill="#8fbf9a" font-size="10" font-weight="700" letter-spacing="1">NOV</text>
+<rect x="36" y="80" width="68" height="119" fill="#1a6e22"/>
+<rect x="104" y="80" width="68" height="119" fill="#1f7d28"/>
+<rect x="172" y="80" width="68" height="119" fill="#1a6e22"/>
+<rect x="240" y="80" width="68" height="119" fill="#1f7d28"/>
+<rect x="308" y="80" width="68" height="119" fill="#1a6e22"/>
+<rect x="376" y="80" width="68" height="119" fill="#1f7d28"/>
+<rect x="444" y="80" width="68" height="119" fill="#1a6e22"/>
+<rect x="512" y="80" width="68" height="119" fill="#1f7d28"/>
+<rect x="580" y="80" width="68" height="119" fill="#1a6e22"/>
+<rect x="648" y="80" width="68" height="119" fill="#1f7d28"/>
+<rect x="716" y="80" width="68" height="119" fill="#1a6e22"/>
+<rect x="784" y="80" width="68" height="119" fill="#1f7d28"/>
+<rect x="852" y="80" width="68" height="119" fill="#1a6e22"/>
+<rect x="920" y="80" width="17" height="119" fill="#1f7d28"/>
+<rect x="36" y="80" width="901" height="119" fill="none" stroke="#fff" stroke-opacity=".55" stroke-width="1.4"/>
+<line x1="486.5" y1="80" x2="486.5" y2="199" fill="none" stroke="#fff" stroke-opacity=".55" stroke-width="1.4"/>
+<circle cx="486.5" cy="139.5" r="23.8" fill="none" stroke="#fff" stroke-opacity=".55" stroke-width="1.4"/>
+<circle cx="486.5" cy="139.5" r="2.5" fill="#fff" fill-opacity=".7"/>
+<rect x="36.0" y="103.8" width="81.1" height="71.4" fill="none" stroke="#fff" stroke-opacity=".55" stroke-width="1.4"/>
+<rect x="36.0" y="121.7" width="31.5" height="35.7" fill="none" stroke="#fff" stroke-opacity=".55" stroke-width="1.4"/>
+<circle cx="94.6" cy="139.5" r="2" fill="#fff" fill-opacity=".7"/>
+<path d="M117.1,131.8 A23.8,23.8 0 0 1 117.1,147.2" fill="none" stroke="#fff" stroke-opacity=".55" stroke-width="1.4"/>
+<rect x="855.9" y="103.8" width="81.1" height="71.4" fill="none" stroke="#fff" stroke-opacity=".55" stroke-width="1.4"/>
+<rect x="905.5" y="121.7" width="31.5" height="35.7" fill="none" stroke="#fff" stroke-opacity=".55" stroke-width="1.4"/>
+<circle cx="878.4" cy="139.5" r="2" fill="#fff" fill-opacity=".7"/>
+<path d="M855.9,131.8 A23.8,23.8 0 0 0 855.9,147.2" fill="none" stroke="#fff" stroke-opacity=".55" stroke-width="1.4"/>
+<path d="M36,86 A6,6 0 0 0 42,80 M931,80 A6,6 0 0 0 937,86 M937,193 A6,6 0 0 0 931,199 M42,199 A6,6 0 0 0 36,193" fill="none" stroke="#fff" stroke-opacity=".55" stroke-width="1.4"/>
+<rect x="24" y="126.4" width="12" height="26.2" fill="url(#net)" stroke="#fff" stroke-opacity=".8" stroke-width="1.5"/>
+<rect x="937" y="126.4" width="12" height="26.2" fill="url(#net)" stroke="#fff" stroke-opacity=".8" stroke-width="1.5"/>
+<circle cx="316.5" cy="156.5" r="10.0" fill="#f5c518" fill-opacity=".35" stroke="#f5c518" stroke-width="1.5"><animate attributeName="r" values="9.0;13.0;9.0" dur="1.8s" repeatCount="indefinite"/></circle><g class="ball" style="animation-delay:0.00s"><circle cx="316.5" cy="157.7" r="7.0" fill="#000" fill-opacity=".3"/><circle cx="316.5" cy="156.5" r="7.0" fill="#ffe27a" stroke="#222" stroke-width="0.8"/><polygon points="316.5,153.1 319.7,155.5 318.5,159.2 314.5,159.2 313.3,155.5" fill="#222"/></g>
+<g class="ball" style="animation-delay:0.25s"><circle cx="316.5" cy="174.7" r="4.6" fill="#000" fill-opacity=".3"/><circle cx="316.5" cy="173.5" r="4.6" fill="#fff" stroke="#222" stroke-width="0.8"/><polygon points="316.5,171.3 318.6,172.8 317.8,175.3 315.2,175.3 314.4,172.8" fill="#222"/></g>
+<g class="ball" style="animation-delay:0.50s"><circle cx="316.5" cy="191.7" r="7.0" fill="#000" fill-opacity=".3"/><circle cx="316.5" cy="190.5" r="7.0" fill="#fff" stroke="#222" stroke-width="0.8"/><polygon points="316.5,187.1 319.7,189.5 318.5,193.2 314.5,193.2 313.3,189.5" fill="#222"/></g>
+<g class="ball" style="animation-delay:0.75s"><circle cx="350.5" cy="106.7" r="5.8" fill="#000" fill-opacity=".3"/><circle cx="350.5" cy="105.5" r="5.8" fill="#fff" stroke="#222" stroke-width="0.8"/><polygon points="350.5,102.7 353.1,104.6 352.1,107.8 348.9,107.8 347.9,104.6" fill="#222"/></g>
+<g class="ball" style="animation-delay:1.00s"><circle cx="350.5" cy="123.7" r="7.0" fill="#000" fill-opacity=".3"/><circle cx="350.5" cy="122.5" r="7.0" fill="#fff" stroke="#222" stroke-width="0.8"/><polygon points="350.5,119.1 353.7,121.5 352.5,125.2 348.5,125.2 347.3,121.5" fill="#222"/></g>
+<g class="ball" style="animation-delay:1.25s"><circle cx="690.5" cy="140.7" r="5.8" fill="#000" fill-opacity=".3"/><circle cx="690.5" cy="139.5" r="5.8" fill="#fff" stroke="#222" stroke-width="0.8"/><polygon points="690.5,136.7 693.1,138.6 692.1,141.8 688.9,141.8 687.9,138.6" fill="#222"/></g>
+<g class="ball" style="animation-delay:1.50s"><circle cx="741.5" cy="140.7" r="4.6" fill="#000" fill-opacity=".3"/><circle cx="741.5" cy="139.5" r="4.6" fill="#fff" stroke="#222" stroke-width="0.8"/><polygon points="741.5,137.3 743.6,138.8 742.8,141.3 740.2,141.3 739.4,138.8" fill="#222"/></g>
+<g class="ball" style="animation-delay:1.75s"><circle cx="758.5" cy="174.7" r="4.6" fill="#000" fill-opacity=".3"/><circle cx="758.5" cy="173.5" r="4.6" fill="#fff" stroke="#222" stroke-width="0.8"/><polygon points="758.5,171.3 760.6,172.8 759.8,175.3 757.2,175.3 756.4,172.8" fill="#222"/></g>
+<g class="ball" style="animation-delay:2.00s"><circle cx="758.5" cy="191.7" r="7.0" fill="#000" fill-opacity=".3"/><circle cx="758.5" cy="190.5" r="7.0" fill="#fff" stroke="#222" stroke-width="0.8"/><polygon points="758.5,187.1 761.7,189.5 760.5,193.2 756.5,193.2 755.3,189.5" fill="#222"/></g>
+<g class="ball" style="animation-delay:2.25s"><circle cx="843.5" cy="157.7" r="7.0" fill="#000" fill-opacity=".3"/><circle cx="843.5" cy="156.5" r="7.0" fill="#fff" stroke="#222" stroke-width="0.8"/><polygon points="843.5,153.1 846.7,155.5 845.5,159.2 841.5,159.2 840.3,155.5" fill="#222"/></g>
+<g class="ball" style="animation-delay:2.50s"><circle cx="843.5" cy="174.7" r="4.6" fill="#000" fill-opacity=".3"/><circle cx="843.5" cy="173.5" r="4.6" fill="#fff" stroke="#222" stroke-width="0.8"/><polygon points="843.5,171.3 845.6,172.8 844.8,175.3 842.2,175.3 841.4,172.8" fill="#222"/></g>
+<g class="ball" style="animation-delay:2.75s"><circle cx="911.5" cy="174.7" r="4.6" fill="#000" fill-opacity=".3"/><circle cx="911.5" cy="173.5" r="4.6" fill="#fff" stroke="#222" stroke-width="0.8"/><polygon points="911.5,171.3 913.6,172.8 912.8,175.3 910.2,175.3 909.4,172.8" fill="#222"/></g>
+<g class="ball" style="animation-delay:0.00s"><circle cx="911.5" cy="191.7" r="7.0" fill="#000" fill-opacity=".3"/><circle cx="911.5" cy="190.5" r="7.0" fill="#fff" stroke="#222" stroke-width="0.8"/><polygon points="911.5,187.1 914.7,189.5 913.5,193.2 909.5,193.2 908.3,189.5" fill="#222"/></g>
+<rect x="36.0" y="219" width="172.2" height="56" rx="10" fill="#0b1f0b" stroke="#1f3a24"/><rect x="36.0" y="231" width="3" height="32" rx="1.5" fill="#3ddc84"/><text x="52.0" y="248" fill="#3ddc84" font-size="20" font-weight="800" class="mono">49</text><text x="52.0" y="265" fill="#8fbf9a" font-size="9.5" font-weight="700" letter-spacing="1.2">GOALS SCORED</text>
+<rect x="218.2" y="219" width="172.2" height="56" rx="10" fill="#0b1f0b" stroke="#1f3a24"/><rect x="218.2" y="231" width="3" height="32" rx="1.5" fill="#3ddc84"/><text x="234.2" y="248" fill="#3ddc84" font-size="20" font-weight="800" class="mono">13</text><text x="234.2" y="265" fill="#8fbf9a" font-size="9.5" font-weight="700" letter-spacing="1.2">MATCHDAYS PLAYED</text>
+<rect x="400.4" y="219" width="172.2" height="56" rx="10" fill="#0b1f0b" stroke="#1f3a24"/><rect x="400.4" y="231" width="3" height="32" rx="1.5" fill="#3ddc84"/><text x="416.4" y="248" fill="#3ddc84" font-size="20" font-weight="800" class="mono">3d</text><text x="416.4" y="265" fill="#8fbf9a" font-size="9.5" font-weight="700" letter-spacing="1.2">LONGEST UNBEATEN RUN</text>
+<rect x="582.6" y="219" width="172.2" height="56" rx="10" fill="#0b1f0b" stroke="#1f3a24"/><rect x="582.6" y="231" width="3" height="32" rx="1.5" fill="#3ddc84"/><text x="598.6" y="248" fill="#3ddc84" font-size="20" font-weight="800" class="mono">0d</text><text x="598.6" y="265" fill="#8fbf9a" font-size="9.5" font-weight="700" letter-spacing="1.2">CURRENT FORM</text>
+<rect x="764.8" y="219" width="172.2" height="56" rx="10" fill="#0b1f0b" stroke="#1f3a24"/><rect x="764.8" y="231" width="3" height="32" rx="1.5" fill="#f5c518"/><text x="780.8" y="248" fill="#f5c518" font-size="20" font-weight="800" class="mono">21 · MAR 5</text><text x="780.8" y="265" fill="#8fbf9a" font-size="9.5" font-weight="700" letter-spacing="1.2">GOLDEN BALL · BEST DAY</text>
+</svg>
